@@ -14,6 +14,7 @@ I’m a Data Scientist and Automation Tester with a passion for solving complex 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Visit Counter
 <div align="center">
   <img src="https://profile-counter.glitch.me/Curious-Eagle/count.svg?"  />
 </div>
