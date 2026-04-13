@@ -2,7 +2,7 @@
 
 **Data Analyst · MSc Data Science (Distinction) · UK**
 
-I turn messy data into decisions that actually get used. I work across the full pipeline — from SQL extraction and Python automation through to dashboards that end up in leadership reviews. Currently at Stack Valley building supply chain analytics on GCP.
+I turn messy data into decisions that actually get used. I work across the full pipeline from SQL extraction and Python automation through to dashboards that end up in leadership reviews. Currently at Stack Valley building supply chain analytics on GCP.
 
 ---
 
